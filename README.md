@@ -1,2 +1,2 @@
 # SpringBootREST
-REST api appliation
+REST client appliation
